@@ -1228,7 +1228,7 @@
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			background: #f8f8f8;
+			background: #ff88f8;
 		}
 
 	form input[type="text"],
@@ -1569,7 +1569,7 @@
 			}
 
 		.wrapper.style1 {
-	background: #988575url("images/overlay.png");
+	background: #988575 url("images/overlay.png");
 	color: #eee;
 	color: rgba(255, 255, 255, 0.75);
 		}
@@ -1705,7 +1705,7 @@
 		}
 
 		#footer-wrapper .feature-list h3:before {
-	background: #9dbf6d url("images/overlay.png");
+	background: #51858c url("images/overlay.png");
 		}
 
 /* Logo */
@@ -1715,8 +1715,8 @@
 		text-transform: uppercase;
 		color: #2e3448;
 		
- background: rgb(170, 187, 97); /* Fallback */
-    background: rgba(170, 187, 97, 0.6);
+ background: rgb(104, 161, 169); /* Fallback */
+    background: rgba(104, 161, 169, 0.6);
 	height: 55px;
 	text-align: center;
 vertical-align: middle;
@@ -2031,8 +2031,8 @@ line-height: 62px;
 				left: 0;
 				width: 100%;
 				text-align: center;
-				background: rgb(170, 187, 97); /* Fallback */
-    			background: rgba(170, 187, 97, 0.8);
+				background: rgb(); /* Fallback */
+    			background: rgba(104, 161, 169, 0.9);
 				height: 62px;
 				
 			}
